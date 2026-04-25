@@ -56,7 +56,7 @@ export default function CV() {
                                 </div>
                                 <div className={styles.social__info}>
                                     <span className={styles.social__name}>Email</span>
-                                    <span className={styles.social__user}>tu@email.com</span>
+                                    <span className={styles.social__user}>mcruzc1206@egresado.ipn.mx</span>
                                 </div>
                                 <i className={`${styles.social__arrow} fas fa-arrow-right`}></i>
                             </a>

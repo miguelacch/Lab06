@@ -30,8 +30,8 @@ export default function Contact() {
                                     <i className="fas fa-map-marker-alt"></i>
                                 </div>
                                 <div className={styles.contact__text}>
-                                    <span className={styles.contact__label}>Ubicación</span>
-                                    <span className={styles.contact__value}>Ciudad, País</span>
+                                    <span className={styles.contact__label}>México</span>
+                                    <span className={styles.contact__value}>Ciudad de México, México</span>
                                 </div>
                             </div>
                             

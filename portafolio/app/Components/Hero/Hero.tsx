@@ -7,14 +7,15 @@ export default function Hero() {
             <div className={`${styles.hero__container} container`}>
                 <div className={styles.hero__content}>
                     <span className={styles.hero__greeting}>¡Hola! 👋 Soy</span>
-                    <h1 className={styles.hero__title}>Miguel Angel Cruz</h1>
+                    <h1 className={styles.hero__title}>Miguel Ángel Cruz Chávez</h1>
                     <h2 className={styles.hero__subtitle}>
-                        <span className={styles.highlight}>Ingeniero de Software</span> en Crecimiento
+                        <span className={styles.highlight}>Economista/Estudiante de MAC</span> en Crecimiento
                     </h2>
                     <p className={styles.hero__description}>
-                        Recién egresado de Tecnologías de la Información apasionado por crear 
-                        soluciones digitales innovadoras. Combino creatividad técnica con un 
-                        enfoque orientado a resultados para transformar ideas en código funcional.
+                        Soy un economista apasionado por las matemáticas y la programación, 
+                        y sus aplicaciones en las ciencias, principalmente en las ciencias sociales. 
+                        Soy alguien que disfruta los desafíos y logra 
+                        aprender mucho del entorno que le rodea, personas, lugares y experiencias.
                     </p>
                     <div className={styles.hero__buttons}>
                         <a href="#projects" className="btn btn--primary">

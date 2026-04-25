@@ -19,10 +19,13 @@ export default function Interests() {
                         <div className={styles.card__icon}>
                             <i className="fas fa-code"></i>
                         </div>
-                        <h3 className={styles.card__title}>Desarrollo Web</h3>
+                        <h3 className={styles.card__title}>TDA</h3>
                         <p className={styles.card__description}>
-                            Creación de aplicaciones web modernas con tecnologías como 
-                            HTML5, CSS3, JavaScript y frameworks actuales.
+                            Combinar la topología algebraica 
+                            y otras herramientas de las 
+                            matemáticas puras para permitir un 
+                            estudio matemáticamente riguroso de la "forma" de los datos
+                            utilizando herramientas computacionales.
                         </p>
                         <div className={styles.card__tags}>
                             <span className={styles.tag}>HTML/CSS</span>
@@ -87,10 +90,11 @@ export default function Interests() {
                         <div className={styles.card__icon}>
                             <i className="fas fa-mobile-screen-button"></i>
                         </div>
-                        <h3 className={styles.card__title}>Desarrollo Móvil</h3>
+                        <h3 className={styles.card__title}>Computación cuántica</h3>
                         <p className={styles.card__description}>
-                            Creación de aplicaciones móviles nativas y multiplataforma 
-                            para Android e iOS.
+                            Desarrollo de algoritmos y aplicaciones para computadoras cuánticas.
+                            Interés por su capacidad para resolver problemas complejos inabordables para la computación clásica, 
+                            utilizando cúbits para realizar cálculos paralelos masivos.
                         </p>
                         <div className={styles.card__tags}>
                             <span className={styles.tag}>Flutter</span>
