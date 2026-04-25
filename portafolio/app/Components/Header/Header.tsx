@@ -8,7 +8,7 @@ export default function Header() {
         <><header className="header" id="header">
         <nav className="nav container">
             <a href="#home" className="nav__logo">
-                <span className="logo__bracket">&lt;</span>TuNombre<span className="logo__bracket">/&gt;</span>
+                <span className="logo__bracket">&lt;</span>Miguel Angel Cruz<span className="logo__bracket">/&gt;</span>
             </a>
             
             
